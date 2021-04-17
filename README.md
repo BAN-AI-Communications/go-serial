@@ -1,6 +1,7 @@
 # github.com/albenik/go-serial/v2
 
 ![Go](https://github.com/albenik/go-serial/workflows/Go/badge.svg)
+![GoReportCard](https://goreportcard.com/badge/github.com/BAN-AI-Communications/goserial)
 
 ## MacOS Note
 

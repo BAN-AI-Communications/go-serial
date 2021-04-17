@@ -5,16 +5,19 @@
 
 ## MacOS Note
 
-Since version **v2.1.0** `GOOS=darwin` build requires `IOKit` as dependency and is only possible on Mac with cgo enabled.
+Since version **v2.1.0** `GOOS=darwin` build requires `IOKit` as dependency and
+is only possible on Mac with cgo enabled.
 
 ## Package updated to v2 version
 
 A cross-platform serial library for Go.
 
-Forked from [github.com/bugst/go-serial](https://github.com/bugst/go-serial) and now developing independently.
+Forked from [github.com/bugst/go-serial](https://github.com/bugst/go-serial) and
+now developing independently.
 
-Many ideas are bein taken from [github.com/bugst/go-serial](https://github.com/bugst/go-serial)
-and [github.com/pyserial/pyserial](https://github.com/pyserial/pyserial).
+Many ideas are bein taken from
+[github.com/bugst/go-serial](https://github.com/bugst/go-serial) and
+[github.com/pyserial/pyserial](https://github.com/pyserial/pyserial).
 
 Any PR-s are welcome.
 

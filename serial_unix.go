@@ -290,7 +290,8 @@ func (p *Port) SetReadTimeout(t int) error {
 }
 
 // TODO Second argument was forget here while interface type that forces to implement it was removed.
-//      To support backward compatibility keep it here until version v3
+//
+//	To support backward compatibility keep it here until version v3
 func (p *Port) SetReadTimeoutEx(t, _ uint32) error {
 	if err := p.checkValid(); err != nil {
 		return err
